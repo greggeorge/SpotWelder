@@ -12,3 +12,5 @@ the default weld time if required using this time as a guide.  There is an 'Up' 
 The transformer used is a 600VA rewound Microwave oven transformer.  The output winding is 1.5 turns and of about 15mm diameter multi strand copper cable giving an open circuit voltage of 1.3VAC
 
 A circuit schematic has been provided in KiCad format.
+
+Information is displayed on a 16x2 character LCD I2C display
